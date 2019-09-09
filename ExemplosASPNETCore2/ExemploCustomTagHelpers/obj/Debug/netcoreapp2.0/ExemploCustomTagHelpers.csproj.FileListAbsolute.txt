@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\bin\Debug\netcoreapp2.0\ExemploCustomTagHelpers.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\bin\Debug\netcoreapp2.0\ExemploCustomTagHelpers.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\bin\Debug\netcoreapp2.0\ExemploCustomTagHelpers.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\bin\Debug\netcoreapp2.0\ExemploCustomTagHelpers.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\bin\Debug\netcoreapp2.0\ExemploCustomTagHelpers.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCustomTagHelpers\obj\Debug\netcoreapp2.0\ExemploCustomTagHelpers.pdb

@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\bin\Debug\netcoreapp2.0\ExemploResponseCache.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\bin\Debug\netcoreapp2.0\ExemploResponseCache.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\bin\Debug\netcoreapp2.0\ExemploResponseCache.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\bin\Debug\netcoreapp2.0\ExemploResponseCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\bin\Debug\netcoreapp2.0\ExemploResponseCache.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\obj\Debug\netcoreapp2.0\ExemploResponseCache.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\obj\Debug\netcoreapp2.0\ExemploResponseCache.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\obj\Debug\netcoreapp2.0\ExemploResponseCache.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\obj\Debug\netcoreapp2.0\ExemploResponseCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploResponseCache\obj\Debug\netcoreapp2.0\ExemploResponseCache.pdb

@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\bin\Debug\netcoreapp2.0\ExemploADO.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\bin\Debug\netcoreapp2.0\ExemploADO.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\bin\Debug\netcoreapp2.0\ExemploADO.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\bin\Debug\netcoreapp2.0\ExemploADO.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\bin\Debug\netcoreapp2.0\ExemploADO.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\obj\Debug\netcoreapp2.0\ExemploADO.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\obj\Debug\netcoreapp2.0\ExemploADO.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\obj\Debug\netcoreapp2.0\ExemploADO.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\obj\Debug\netcoreapp2.0\ExemploADO.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploADO\obj\Debug\netcoreapp2.0\ExemploADO.pdb

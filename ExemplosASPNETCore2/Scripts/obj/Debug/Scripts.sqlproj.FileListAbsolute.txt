@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\bin\Debug\Scripts.dacpac
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\bin\Debug\Scripts.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\bin\Debug\Scripts.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\Scripts.sqlprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\Model.xml
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\refactor.xml
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\postdeploy.sql
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\predeploy.sql
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\Scripts.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\Scripts\obj\Debug\Scripts.pdb

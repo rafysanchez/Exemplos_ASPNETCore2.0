@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\bin\Debug\netcoreapp2.0\ExemploRedisCache.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\bin\Debug\netcoreapp2.0\ExemploRedisCache.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\bin\Debug\netcoreapp2.0\ExemploRedisCache.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\bin\Debug\netcoreapp2.0\ExemploRedisCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\bin\Debug\netcoreapp2.0\ExemploRedisCache.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\obj\Debug\netcoreapp2.0\ExemploRedisCache.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\obj\Debug\netcoreapp2.0\ExemploRedisCache.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\obj\Debug\netcoreapp2.0\ExemploRedisCache.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\obj\Debug\netcoreapp2.0\ExemploRedisCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRedisCache\obj\Debug\netcoreapp2.0\ExemploRedisCache.pdb

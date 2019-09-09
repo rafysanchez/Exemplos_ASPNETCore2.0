@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\bin\Debug\netcoreapp2.0\ExemploIMemoryCache.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\bin\Debug\netcoreapp2.0\ExemploIMemoryCache.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\bin\Debug\netcoreapp2.0\ExemploIMemoryCache.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\bin\Debug\netcoreapp2.0\ExemploIMemoryCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\bin\Debug\netcoreapp2.0\ExemploIMemoryCache.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploIMemoryCache\obj\Debug\netcoreapp2.0\ExemploIMemoryCache.pdb

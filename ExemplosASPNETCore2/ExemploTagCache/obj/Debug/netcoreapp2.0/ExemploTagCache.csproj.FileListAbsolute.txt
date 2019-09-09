@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\bin\Debug\netcoreapp2.0\ExemploTagCache.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\bin\Debug\netcoreapp2.0\ExemploTagCache.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\bin\Debug\netcoreapp2.0\ExemploTagCache.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\bin\Debug\netcoreapp2.0\ExemploTagCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\bin\Debug\netcoreapp2.0\ExemploTagCache.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\obj\Debug\netcoreapp2.0\ExemploTagCache.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\obj\Debug\netcoreapp2.0\ExemploTagCache.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\obj\Debug\netcoreapp2.0\ExemploTagCache.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\obj\Debug\netcoreapp2.0\ExemploTagCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagCache\obj\Debug\netcoreapp2.0\ExemploTagCache.pdb

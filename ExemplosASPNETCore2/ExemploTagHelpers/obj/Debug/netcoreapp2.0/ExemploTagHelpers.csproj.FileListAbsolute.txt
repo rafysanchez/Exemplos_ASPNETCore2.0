@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\bin\Debug\netcoreapp2.0\ExemploTagHelpers.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\bin\Debug\netcoreapp2.0\ExemploTagHelpers.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\bin\Debug\netcoreapp2.0\ExemploTagHelpers.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\bin\Debug\netcoreapp2.0\ExemploTagHelpers.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\bin\Debug\netcoreapp2.0\ExemploTagHelpers.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploTagHelpers\obj\Debug\netcoreapp2.0\ExemploTagHelpers.pdb

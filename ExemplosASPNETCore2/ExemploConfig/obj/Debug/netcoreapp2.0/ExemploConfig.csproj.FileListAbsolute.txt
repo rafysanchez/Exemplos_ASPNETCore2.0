@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\bin\Debug\netcoreapp2.0\ExemploConfig.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\bin\Debug\netcoreapp2.0\ExemploConfig.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\bin\Debug\netcoreapp2.0\ExemploConfig.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\bin\Debug\netcoreapp2.0\ExemploConfig.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\bin\Debug\netcoreapp2.0\ExemploConfig.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploConfig\obj\Debug\netcoreapp2.0\ExemploConfig.pdb

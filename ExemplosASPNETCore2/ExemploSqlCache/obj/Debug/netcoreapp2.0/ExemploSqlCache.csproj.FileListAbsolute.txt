@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\bin\Debug\netcoreapp2.0\ExemploSqlCache.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\bin\Debug\netcoreapp2.0\ExemploSqlCache.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\bin\Debug\netcoreapp2.0\ExemploSqlCache.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\bin\Debug\netcoreapp2.0\ExemploSqlCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\bin\Debug\netcoreapp2.0\ExemploSqlCache.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\obj\Debug\netcoreapp2.0\ExemploSqlCache.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\obj\Debug\netcoreapp2.0\ExemploSqlCache.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\obj\Debug\netcoreapp2.0\ExemploSqlCache.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\obj\Debug\netcoreapp2.0\ExemploSqlCache.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploSqlCache\obj\Debug\netcoreapp2.0\ExemploSqlCache.pdb

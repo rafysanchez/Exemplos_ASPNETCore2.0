@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\bin\Debug\netcoreapp2.0\ExemploEFCore.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\bin\Debug\netcoreapp2.0\ExemploEFCore.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\bin\Debug\netcoreapp2.0\ExemploEFCore.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\bin\Debug\netcoreapp2.0\ExemploEFCore.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\bin\Debug\netcoreapp2.0\ExemploEFCore.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploEFCore\obj\Debug\netcoreapp2.0\ExemploEFCore.pdb

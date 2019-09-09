@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\bin\Debug\netcoreapp2.0\ExemploViewComponent.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\bin\Debug\netcoreapp2.0\ExemploViewComponent.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\bin\Debug\netcoreapp2.0\ExemploViewComponent.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\bin\Debug\netcoreapp2.0\ExemploViewComponent.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\bin\Debug\netcoreapp2.0\ExemploViewComponent.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\obj\Debug\netcoreapp2.0\ExemploViewComponent.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\obj\Debug\netcoreapp2.0\ExemploViewComponent.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\obj\Debug\netcoreapp2.0\ExemploViewComponent.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\obj\Debug\netcoreapp2.0\ExemploViewComponent.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploViewComponent\obj\Debug\netcoreapp2.0\ExemploViewComponent.pdb

@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\bin\Debug\netcoreapp2.0\ExemploMiddleware2.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\bin\Debug\netcoreapp2.0\ExemploMiddleware2.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\bin\Debug\netcoreapp2.0\ExemploMiddleware2.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\bin\Debug\netcoreapp2.0\ExemploMiddleware2.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\bin\Debug\netcoreapp2.0\ExemploMiddleware2.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\obj\Debug\netcoreapp2.0\ExemploMiddleware2.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\obj\Debug\netcoreapp2.0\ExemploMiddleware2.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\obj\Debug\netcoreapp2.0\ExemploMiddleware2.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\obj\Debug\netcoreapp2.0\ExemploMiddleware2.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploMiddleware2\obj\Debug\netcoreapp2.0\ExemploMiddleware2.pdb

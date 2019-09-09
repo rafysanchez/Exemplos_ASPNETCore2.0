@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\bin\Debug\netcoreapp2.0\ExemploInjDependencias.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\bin\Debug\netcoreapp2.0\ExemploInjDependencias.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\bin\Debug\netcoreapp2.0\ExemploInjDependencias.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\bin\Debug\netcoreapp2.0\ExemploInjDependencias.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\bin\Debug\netcoreapp2.0\ExemploInjDependencias.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploInjDependencias\obj\Debug\netcoreapp2.0\ExemploInjDependencias.pdb

@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\bin\Debug\netcoreapp2.0\ExemploCompressao.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\bin\Debug\netcoreapp2.0\ExemploCompressao.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\bin\Debug\netcoreapp2.0\ExemploCompressao.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\bin\Debug\netcoreapp2.0\ExemploCompressao.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\bin\Debug\netcoreapp2.0\ExemploCompressao.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploCompressao\obj\Debug\netcoreapp2.0\ExemploCompressao.pdb

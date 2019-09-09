@@ -1,0 +1,10 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\bin\Debug\netcoreapp2.0\ExemploJsonHelper.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\bin\Debug\netcoreapp2.0\ExemploJsonHelper.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\bin\Debug\netcoreapp2.0\ExemploJsonHelper.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\bin\Debug\netcoreapp2.0\ExemploJsonHelper.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\bin\Debug\netcoreapp2.0\ExemploJsonHelper.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\obj\Debug\netcoreapp2.0\ExemploJsonHelper.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\obj\Debug\netcoreapp2.0\ExemploJsonHelper.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\obj\Debug\netcoreapp2.0\ExemploJsonHelper.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\obj\Debug\netcoreapp2.0\ExemploJsonHelper.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploJsonHelper\obj\Debug\netcoreapp2.0\ExemploJsonHelper.pdb

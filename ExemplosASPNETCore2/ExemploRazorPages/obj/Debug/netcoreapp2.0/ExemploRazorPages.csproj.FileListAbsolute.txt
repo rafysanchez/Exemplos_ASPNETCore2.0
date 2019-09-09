@@ -1,0 +1,11 @@
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\bin\Debug\netcoreapp2.0\ExemploRazorPages.deps.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\bin\Debug\netcoreapp2.0\ExemploRazorPages.runtimeconfig.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\bin\Debug\netcoreapp2.0\ExemploRazorPages.runtimeconfig.dev.json
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\bin\Debug\netcoreapp2.0\ExemploRazorPages.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\bin\Debug\netcoreapp2.0\ExemploRazorPages.pdb
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.csprojAssemblyReference.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.csproj.CoreCompileInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.AssemblyInfoInputs.cache
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.AssemblyInfo.cs
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.dll
+C:\Temp\GitHub\AspNetCore\Exemplos_ASPNETCore2.0\ExemplosASPNETCore2\ExemploRazorPages\obj\Debug\netcoreapp2.0\ExemploRazorPages.pdb
